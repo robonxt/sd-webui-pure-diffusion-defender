@@ -21,7 +21,14 @@ mrd
 mrdani
 prcani
 kozy
-ass
+ass 
+ ass
+[^\w+]ass
+ass[^\w+]
+\,ass
+ass\,
+\(ass
+ass\)
 breasts
 tits
 completly nude
@@ -75,7 +82,7 @@ hand-holding
 nude female
 nude male
 nudity
-naked female
+naked
 nude futanari
 censored pussy
 censored cock
@@ -219,7 +226,6 @@ incest
 love
 furry
 furries
-fur
 clothed sex
 group sex
 foursome
@@ -407,3 +413,4 @@ tongue kissing
 ballgagged
 pussy ejaculation
 vaginal object push
+hitler
