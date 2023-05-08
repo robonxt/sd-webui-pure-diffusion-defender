@@ -21,14 +21,7 @@ mrd
 mrdani
 prcani
 kozy
-ass 
- ass
-[^\w+]ass
-ass[^\w+]
-\,ass
-ass\,
-\(ass
-ass\)
+([^\w+]|^)ass([^\w+]|$)
 breasts
 tits
 completly nude
@@ -38,6 +31,7 @@ bar censor
 censored
 fellatio
 cum on tounge
+cum on tongue
 cum in mouth
 handjob
 clothed sex
@@ -86,7 +80,7 @@ naked
 nude futanari
 censored pussy
 censored cock
-cenored penis
+censored penis
 censored ass
 smooth penis
 thick penis
@@ -105,7 +99,7 @@ bare thighs
 penis in vagina
 enjoying sex
 penis in pussy
-hetero
+([^\w+]|^)hetero([^\w+]|$)
 cumshot
 creampie
 cum leaking
@@ -180,8 +174,8 @@ cum on body
 anal insertion
 translucent clothing
 giver pov
-seme
-uke
+([^\w+]|^)seme([^\w+]|$)
+([^\w+]|^)uke([^\w+]|$)
 dominant
 submissive
 breedable
