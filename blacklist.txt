@@ -2,6 +2,7 @@ nsfw
 sex
 porn
 penis
+dick
 nipples
 vagina
 anal
@@ -9,10 +10,8 @@ anus
 futa
 pussy
 no panties
-vaginal
 nude
 cum
-cum in pussy
 x-ray
 ahegao
 erection
@@ -22,42 +21,27 @@ mrdani
 prcani
 kozy
 ([^\w+]|^)ass([^\w+]|$)
-breasts
+breast
 tits
-completly nude
+titts
+tiddy
+tiddies
 censor
-black censor
-bar censor
-censored
 fellatio
-cum on tounge
-cum on tongue
-cum in mouth
 handjob
-clothed sex
 missionary
 groin
 yaoi
 the pose
 backboob
-futa on loli
 aftersex
 nipple piercing
-exposed breast
 boob
-tits out
-bare breasts
-presenting breasts
-titts
-exposed breasts
 nipple slip
 perky nipples
 pink nipples
 exposed nipples
 exposed navel
-2futas
-futas
-futacock
 futanari
 presenting butt
 nice ass
@@ -73,32 +57,12 @@ exposed ass
 bare ass
 handholding
 hand-holding
-nude female
-nude male
 nudity
 naked
-nude futanari
-censored pussy
-censored cock
-censored penis
-censored ass
-smooth penis
-thick penis
 exposed panties
-wet penis
-pink penis
-shaved pussy
-labia minora
-labia majora
 labia
-exposed pussy
-pink pussy
-exposed vagina
-backpussy
 bare thighs
-penis in vagina
 enjoying sex
-penis in pussy
 ([^\w+]|^)hetero([^\w+]|$)
 cumshot
 creampie
@@ -113,16 +77,12 @@ leaking cum
 male penetrating female
 penetration
 penetrate
-vaginal insertion
 open clothing
-vaginal sex
-uncensored
 fetish
 fetishism
 armpit fetish
 puckered anus
 anus
-uncensored anus
 imminent yuri
 covered erect nipples
 lesbians
@@ -133,20 +93,7 @@ erect nipples under clothes
 lesbian sex
 nipples visible through clothing
 nipple bulge
-semen in pussy
-cum inside vagina
-vaginal fluids
-pussy juice on penis
-vaginal juice drip
-ejaculation into pussy
-vaginal juices
-wet pussy
-wet vagina
-saliva on penis
-oral sex
 oral
-oral penetration
-dark-skinned futanari
 butthole
 butt hole
 bottomless male
@@ -165,11 +112,8 @@ backsack
 bdsm
 sucking cock
 sucking tip
-face fucking
-face fuck
+fuck
 fellatio domination
-sucking penis
-penis in mouth
 cum on body
 anal insertion
 translucent clothing
@@ -182,29 +126,20 @@ breedable
 breed
 breeding
 pov male
-ass fuck
 anal penatration
-bar censor
 see-through clothing
 penetrator pov
 pov only
 rape
 raping
 anal rape
-breast grab
 sex from behind
-squeezing breast
-squeezing breasts
-breast rub
-breast grab from behind
 open shirt
 younger penetrating older
 penetrating
 ugly bastard
 nakadashi
 taken from behind
-fucked from behind
-breasts out of clothes
 underboob
 sideboob
 girl on top
@@ -225,41 +160,21 @@ group sex
 foursome
 threesome
 paizuri
-breasts outside
 reverse rape
 cum on closed eye
 pantyshot
-mosaic censoring
 reverse bunny suit
 sex toy
 handjob while penetrating
-cum on breasts
-hung trap
 hung
 gay
 lgbt
-futanari focus
-pussy hair
 cleavage out
 ass visible through thighs
-breast press
 eating dick
-futa solo
-1futa
-futa only
-futadom
-1futanari
-futanari penetrated
-futanari penetrating
-masturbation
 drooling on partner
-bouncing breasts
-masturbating
-futasub
-futa is bigger
+masturbat
 cumdrip
-jiggling breasts
-athletic futanari
 tramp stamp
 tentacles on female
 tentacle rape
@@ -273,22 +188,12 @@ cummies
 doggie style
 puffy nipples
 naughty face
-finger fuck
-nipple fuck
-brainfuck
-brain fuck
-headfuck
-head fuck
-nippplefuck
 cowgirl position
 fingering
 cullingus
 fingering partner
 revealing clothes
 butt crack
-spread pussy
-spreading pussy
-between breasts
 large areolae
 areolae slip
 areola slip
@@ -296,7 +201,6 @@ big areola
 skintight clothes
 skintight
 latex
-latexfuck
 missionary position
 object insertion
 insertion
@@ -304,23 +208,17 @@ cum on hair
 big dom small sub
 big nipples
 crossdressing
-squirting breast
 milk lactation
-breast milk drip
 lactation without expressing
 transvestite
 trans
 huge cock
-multiple penises
-long penis
 big dick
 female anthro
 happy sex
-breasts pressed together
 agehao
 age gao
 panties aside
-breast squeeze
 dildo
 dildo insertion
 dildo penetration
@@ -332,7 +230,6 @@ female masturbation
 urinating
 shitting
 scat
-pussy veil
 crotch vewil
 anal veil
 interracial
@@ -341,12 +238,8 @@ femdom
 lezdom
 interracial sex
 public exposure
-sucking breasts
 butt focus
 threesome
-hyper penis
-hyper breasts
-gigabreasts
 groping chest
 pregnant belly
 pregnant
@@ -361,13 +254,9 @@ inverted nipples
 futa with female
 nipple teasing
 shirtless
-licking pussy
-eating pussy
 eating out
 cunnilingus
 bestiality
-tongue in pussy
-sucking pussy
 fucked silly
 human on feral
 feral penetrating human
@@ -375,20 +264,13 @@ feral on human
 pink blouse
 nipple pinch
 pinching nipples
-vaginal object insertion
-dildo in pussy
 reverse cowgirl position
 sex invitation
 belly bulge
-after vaginal
 foreskin
 used condom
 condom
 masturbation (female)
-one breast out
-tentacle in pussy
-grabbing own breasts
-holding own breasts
 public sex
 bra lift
 butt plug tail
@@ -405,6 +287,16 @@ droplets
 underbust
 tongue kissing
 ballgagged
-pussy ejaculation
-vaginal object push
 hitler
+(medic|physic)\w* (examin|check)
+remove[\w\s]* cloth
+remove[\w\s]* wardrobe
+undressed
+unclothed
+disrobed
+undraped
+with nothing on
+au naturel
+bare skin
+stripp
+unclad
