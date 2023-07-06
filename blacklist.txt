@@ -1,8 +1,4 @@
-([^\w+]|^)ass([^\w+]|$)
 ([^\w+]|^)hetero([^\w+]|$)
-([^\w+]|^)seme([^\w+]|$)
-([^\w+]|^)uke([^\w+]|$)
-(medic|physic)\w* (examin|check)
 aftersex
 age gao
 agehao
