@@ -1,302 +1,254 @@
-nsfw
-sex
-porn
-penis
-dick
-nipples
-vagina
-anal
-anus
-futa
-pussy
-no panties
-nude
-cum
-x-ray
-ahegao
-erection
-pubic hair
-mrd
-mrdani
-prcani
-kozy
 ([^\w+]|^)ass([^\w+]|$)
-breast
-tits
-titts
-tiddy
-tiddies
-censor
-fellatio
-handjob
-missionary
-groin
-yaoi
-the pose
-backboob
-aftersex
-nipple piercing
-boob
-nipple slip
-perky nipples
-pink nipples
-exposed nipples
-exposed navel
-futanari
-presenting butt
-nice ass
-pov ass
-presenting ass
-jiggly butt
-feet
-ass worship
-dat ass
-ass shot
-big ass
-exposed ass
-bare ass
-handholding
-hand-holding
-nudity
-naked
-exposed panties
-labia
-bare thighs
-enjoying sex
 ([^\w+]|^)hetero([^\w+]|$)
-cumshot
-creampie
-cum leaking
-cum outside
-dripping semen
-semen
-heterosexual
-hetero sex
-semen string
-leaking cum
-male penetrating female
-penetration
-penetrate
-open clothing
-fetish
-fetishism
-armpit fetish
-puckered anus
-anus
-imminent yuri
-covered erect nipples
-lesbians
-pubes
-erect nipples under clothing
-nipple outline
-erect nipples under clothes
-lesbian sex
-nipples visible through clothing
-nipple bulge
-oral
-butthole
-butt hole
-bottomless male
-bottomless female
-bottomless (female)
-pantsless
-no bra
-ripped clothing
-no clothing
-no clothes
-testicles
-scrotum
-ballsack
-large balls
-backsack
-bdsm
-sucking cock
-sucking tip
-fuck
-fellatio domination
-cum on body
-anal insertion
-translucent clothing
-giver pov
 ([^\w+]|^)seme([^\w+]|$)
 ([^\w+]|^)uke([^\w+]|$)
-dominant
-submissive
-breedable
-breed
-breeding
-pov male
+(medic|physic)\w* (examin|check)
+aftersex
+age gao
+agehao
+ahegao
+anal
+anal cumshot
+anal insertion
+anal object insertion
 anal penatration
-see-through clothing
-penetrator pov
-pov only
-rape
-raping
 anal rape
-sex from behind
-open shirt
-younger penetrating older
-penetrating
-ugly bastard
-nakadashi
-taken from behind
-underboob
-sideboob
-girl on top
-male on male
-male/male
-male penetrating male
-topless
-huge butt
-massive ass
-sexual
-female on top
-incest
-love
-furry
-furries
-clothed sex
-group sex
-foursome
-threesome
-paizuri
-reverse rape
-cum on closed eye
-pantyshot
-reverse bunny suit
-sex toy
-handjob while penetrating
-hung
-gay
-lgbt
-cleavage out
-ass visible through thighs
-eating dick
-drooling on partner
-masturbat
-cumdrip
-tramp stamp
-tentacles on female
-tentacle rape
-ass grab
-ejaculation into mouth
-doggystyle
-doggy style
-semen in throat
-swallowing cum
-cummies
-doggie style
-puffy nipples
-naughty face
-cowgirl position
-fingering
-cullingus
-fingering partner
-revealing clothes
-butt crack
-large areolae
-areolae slip
+anal veil
+anus
 areola slip
+areolae slip
+armpit fetish
+ass grab
+ass shot
+ass visible through thighs
+ass worship
+au naturel
+backboob
+backsack
+ballgagged
+ballsack
+bare ass
+bare thighs
+bdsm
+belly bulge
+bestiality
 big areola
-skintight clothes
-skintight
-latex
-missionary position
-object insertion
-insertion
-cum on hair
+big ass
+big dick
 big dom small sub
 big nipples
+bra lift
+butt crack
+butt focus
+butt hole
+butt plug tail
+butthole
+cleavage out
+clothed sex
+condom
+condom wrapper
+covered erect nipples
+cowgirl position
+creampie
 crossdressing
-milk lactation
-lactation without expressing
-transvestite
-trans
-huge cock
-big dick
-female anthro
-happy sex
-agehao
-age gao
-panties aside
+crotch vewil
+cullingus
+cum
+cum leaking
+cum on body
+cum on closed eye
+cum on clothes
+cum on hair
+cum on lower body
+cum outside
+cumdrip
+cummies
+cumming
+cumshot
+cunnilingus
+dat ass
+dick
 dildo
 dildo insertion
 dildo penetration
-semen in anus
-anal cumshot
-ejaculation into ass
-cum on lower body
-female masturbation
-urinating
-shitting
-scat
-crotch vewil
-anal veil
-interracial
-veil
-femdom
-lezdom
-interracial sex
-public exposure
-butt focus
-threesome
-groping chest
-pregnant belly
-pregnant
-fondle
-dying
-cumming
-anal object insertion
+disrobed
+doggie style
+doggy style
+doggystyle
 double penetration
-cum on clothes
-semen on clothes
-inverted nipples
-futa with female
-nipple teasing
-shirtless
+dripping semen
+drooling on partner
+eating dick
 eating out
-cunnilingus
-bestiality
-fucked silly
-human on feral
-feral penetrating human
-feral on human
-pink blouse
-nipple pinch
-pinching nipples
-reverse cowgirl position
-sex invitation
-belly bulge
-foreskin
-used condom
-condom
-masturbation (female)
-public sex
-bra lift
-butt plug tail
-forced
-multiple
-tentacle penetration
-tentacle sex
-exhibitionism
+ejaculation into ass
+ejaculation into mouth
+enjoying sex
+erect nipples under clothes
+erect nipples under clothing
+erection
 erection under skirt
-condom wrapper
+exhibitionism
+exposed ass
+exposed navel
+exposed nipples
+exposed panties
+fellatio
+fellatio domination
+female anthro
 female ejaculation
-standing sex
-droplets
-underbust
-tongue kissing
-ballgagged
+female masturbation
+female on top
+femdom
+feral on human
+feral penetrating human
+fetishism
+fingering
+fingering partner
+fondle
+foreskin
+foursome
+fuck
+fucked silly
+furries
+furry
+futa
+futa with female
+futanari
+gay
+girl on top
+giver pov
+groin
+groping chest
+group sex
+handjob
+handjob while penetrating
+happy sex
+hetero sex
+heterosexual
 hitler
-(medic|physic)\w* (examin|check)
+huge butt
+huge cock
+human on feral
+imminent yuri
+incest
+insertion
+interracial
+interracial sex
+inverted nipples
+jiggly butt
+kozy
+labia
+lactation without expressing
+large areolae
+leaking cum
+lesbian sex
+lesbians
+lezdom
+lgbt
+male on male
+male penetrating female
+male penetrating male
+male/male
+massive ass
+masturbat
+masturbation (female)
+milk lactation
+missionary
+missionary position
+mrd
+mrdani
+nakadashi
+nice ass
+nipple bulge
+nipple outline
+nipple piercing
+nipple pinch
+nipple slip
+nipple teasing
+nipples
+nipples visible through clothing
+nsfw
+nude
+nudity
+object insertion
+open shirt
+oral
+paizuri
+panties aside
+pantsless
+penetrate
+penetrating
+penetration
+penetrator pov
+penis
+perky nipples
+pinching nipples
+pink blouse
+pink nipples
+porn
+pov ass
+pov male
+prcani
+presenting ass
+presenting butt
+pubes
+pubic hair
+public exposure
+public sex
+puckered anus
+puffy nipples
+pussy
+rape
+raping
 remove[\w\s]* cloth
 remove[\w\s]* wardrobe
-undressed
-unclothed
-disrobed
-undraped
-with nothing on
-au naturel
-bare skin
+revealing clothes
+reverse bunny suit
+reverse cowgirl position
+reverse rape
+scat
+scrotum
+see-through clothing
+semen
+semen in anus
+semen in throat
+semen on clothes
+semen string
+sex
+sex from behind
+sex invitation
+sex toy
+sexual
+shitting
+sideboob
+standing sex
 stripp
+sucking cock
+sucking tip
+swallowing cum
+taken from behind
+tentacle penetration
+tentacle rape
+tentacle sex
+tentacles on female
+testicles
+threesome
+tiddies
+tiddy
+tits
+titts
+tongue kissing
+tramp stamp
+trans
+transvestite
+ugly bastard
 unclad
+underboob
+underbust
+undraped
+urinating
+used condom
+vagina
+with nothing on
+yaoi
+younger penetrating older
