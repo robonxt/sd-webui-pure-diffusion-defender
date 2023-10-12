@@ -1,4 +1,5 @@
 ([^\w+]|^)hetero([^\w+]|$)
+after_sex
 aftersex
 age_gao
 agehao
@@ -21,7 +22,6 @@ backsack
 ballgagged
 ballsack
 bare_boobs
-bare_thighs
 bdsm
 belly_bulge
 bestiality
@@ -62,9 +62,11 @@ dildo_penetration
 doggie_style
 doggy_style
 doggystyle
+doing_sex
 double_penetration
 dripping_semen
 drooling_on_partner
+during_sex
 eating_dick
 eating_out
 ejaculation_into_ass
@@ -98,13 +100,13 @@ futa
 futa_with_female
 futanari
 gay
-girl_on_top
 giver_pov
 groin
 group_sex
 handjob
 handjob_while_penetrating
 happy_sex
+having_sex
 hetero_sex
 heterosexual
 hitler
@@ -150,7 +152,6 @@ nsfw
 nude
 nudity
 object_insertion
-oral
 paizuri
 penetrate
 penetrating
@@ -181,10 +182,10 @@ semen_in_anus
 semen_in_throat
 semen_on_clothes
 semen_string
-sex
 sex_from_behind
 sex_invitation
 sex_toy
+shaft_inside
 shitting
 standing_sex
 stripp
@@ -207,6 +208,9 @@ ugly_bastard
 unclad
 used_condom
 vagina
+viewer_shaft
+viewer's_shaft
+viewers_shaft
 with_nothing_on
 yaoi
 younger_penetrating_older
